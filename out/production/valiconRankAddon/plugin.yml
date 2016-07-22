@@ -1,7 +1,0 @@
-name: ValiconRank
-author: CodenameFlip
-main: com.codenameflip.valiconrankaddon.Core
-version: 1.0
-commands:
-  rank:
-  rankDump:
