@@ -1,0 +1,8 @@
+## ValiconRankAddon -- Configuration file
+## Do not modify anything within this file unless you know what you're doing.
+
+host: “REDACTED”
+port: "REDACTED"
+data: "REDACTED"
+user: "REDACTED"
+pass: "REDACTED"
