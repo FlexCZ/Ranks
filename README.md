@@ -1,4 +1,4 @@
-## valiconRanks
+## Ranks
 _Developed by CodenameFlip_
 
 This project was developed for ValiconNetwork, however mid-June the project was closed/abandoned and all of my projects whilst working there have been open sourced.
